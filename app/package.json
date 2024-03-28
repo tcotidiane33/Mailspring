@@ -57,7 +57,7 @@
     "react-dom": "16.6.0",
     "react-test-renderer": "16.6.0",
     "react-transition-group": "1.2.1",
-    "reflux": "0.1.13",
+    "reflux": "0.4.1",
     "rimraf": "2.5.2",
     "rtlcss": "2.4.0",
     "rx-lite": "4.0.8",
