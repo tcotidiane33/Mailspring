@@ -17,7 +17,7 @@
     "better-sqlite3": "^7.5.0",
     "cheerio": "^1.0.0-rc.6",
     "chromium-net-errors": "1.0.3",
-    "chrono-node": "^1.1.2",
+    "chrono-node": "^2.2.4",
     "classnames": "1.2.1",
     "cld": "2.7.1",
     "collapse-whitespace": "^1.1.6",
