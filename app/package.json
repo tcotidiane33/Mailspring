@@ -39,7 +39,7 @@
     "jasmine-reporters": "1.x.x",
     "juice": "^7.0.0",
     "keytar": "7.7.0",
-    "less-cache": "1.1.0",
+    "less-cache": "1.1.1",
     "lru-cache": "^4.0.1",
     "mammoth": "1.4.19",
     "mkdirp": "^0.5",
